@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 """ Takes 2 int args, waits for random delay """
 
 import asyncio
